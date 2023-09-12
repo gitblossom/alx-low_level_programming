@@ -14,5 +14,5 @@ _putchar('c');
 _putchar('h');
 _putchar('a');
 _putchar('r');
-retur (0);
+return (0);
 }
