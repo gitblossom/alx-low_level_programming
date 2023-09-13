@@ -11,8 +11,7 @@ i = 0;
 while (i<10)
 {
 alph ='a';
-while (alph <='z');
-
+while (alph <= 'z');
 {
 _putchar(alph);
 alph++;
